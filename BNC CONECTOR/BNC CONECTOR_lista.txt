@@ -1,0 +1,21 @@
+Partlist exported from C:/Users/eduar/Documents/eagle/SCART SWITCH/BNC CONECTOR/BNC CONECTOR.sch at 06/01/2018 10:00
+
+Part Value       Device      Package   Description                  MF MPN OC_FARNELL OC_NEWARK PROD_ID   SF_ID    
+C1   0.1uF       C7.5/3      C7.5B3    CAPACITOR                                                                   
+C2   0.1uF       C7.5/3      C7.5B3    CAPACITOR                                                                   
+IC1  LM1881      LM1881      DIL08                                                                                 
+J1   BNCPTH      BNCPTH      BNC       BNC Right Angle Connector                                LPA-12729 PRT-10550
+J2   BNCPTH      BNCPTH      BNC       BNC Right Angle Connector                                LPA-12729 PRT-10550
+J3   BNCPTH      BNCPTH      BNC       BNC Right Angle Connector                                LPA-12729 PRT-10550
+J4   BNCPTH      BNCPTH      BNC       BNC Right Angle Connector                                LPA-12729 PRT-10550
+JP1  AUDIO IN    JP2E        JP2       JUMPER                                                                      
+JP2  RGB IN      JP4E        JP4       JUMPER                                                                      
+JP3  PWR         JP2E        JP2       JUMPER                                                                      
+LED1 BLUE        LED5MM      LED5MM    LED                                                                         
+R2   330R        R-US_0204/7 0204/7    RESISTOR, American symbol                                                   
+R3   470R        R-US_0204/7 0204/7    RESISTOR, American symbol                                                   
+R4   680K        R-US_0204/7 0204/7    RESISTOR, American symbol                                                   
+S1   SYNC SELECT 255SB       255SB     SLIDING SWITCH                                                              
+X1   736880-49   736880-49   736880-49 Cinch Connector ( RCA Jack )                                                
+X2   736880-49   736880-49   736880-49 Cinch Connector ( RCA Jack )                                                
+X3   FM-CON      MD08SS      MDIN08SS  YAMAICHI CONNECTOR                  unknown    unknown                      

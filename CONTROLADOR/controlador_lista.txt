@@ -1,0 +1,25 @@
+Partlist exported from C:/Users/eduar/Documents/eagle/SCART SWITCH/CONTROLADOR/controlador.sch at 06/01/2018 10:00
+
+Part Value              Device               Package               Description                          MF MPN      OC_FARNELL OC_NEWARK PROD_ID    SF_ID    
+C1   100uF              CPOL-USE2.5-7        E2,5-7                POLARIZED CAPACITOR, American symbol                                                      
+C2   100nF              C-EU075-032X103      C075-032X103          CAPACITOR, European symbol                                                                
+IC1  ATMEGA168V-10P     ATMEGA168V-10P       DIL28-3               MICROCONTROLLER                                                                           
+J1   POWER_JACKPTH_LOCK POWER_JACKPTH_LOCK   POWER_JACK_PTH_LOCK   Power Jack Connector                                                  CONN-08197 PRT-00119
+J2   AVR_SPI_PROG_3X2NS AVR_SPI_PROG_3X2NS   2X3-NS                AVR ISP 6 Pin                                                                             
+JP1  I2C                JP4E                 JP4                   JUMPER                                                                                    
+JP2  CH1                JP4E                 JP4                   JUMPER                                                                                    
+JP3  CH2                JP4E                 JP4                   JUMPER                                                                                    
+JP4  CH3                JP4E                 JP4                   JUMPER                                                                                    
+JP5  CH4                JP4E                 JP4                   JUMPER                                                                                    
+JP6  CH5                JP4E                 JP4                   JUMPER                                                                                    
+JP7  CH6                JP4E                 JP4                   JUMPER                                                                                    
+JP8  I2C                JP4E                 JP4                   JUMPER                                                                                    
+JP9  CON                JP4E                 JP4                   JUMPER                                                                                    
+R1   10K                R-US_0204/7          0204/7                RESISTOR, American symbol                                                                 
+R2   10K                R-US_0204/7          0204/7                RESISTOR, American symbol                                                                 
+RN1  10K                G06R                 SIL7                  SIL RESISTOR                                     unknown    unknown                       
+RN2  10K                G03R                 SIL4                  SIL RESISTOR                                     unknown    unknown                       
+S1   RESET              10-XX                B3F-10XX              OMRON SWITCH                            B3F-1000 176432     36M3542                       
+S2   CH SELECT          10-XX                B3F-10XX              OMRON SWITCH                            B3F-1000 176432     36M3542                       
+SW1  MODE SELECT        SW_DIP-3             EDG-03                DIP SWITCH                                                                                
+Y1   16.00MHz           RESONATORPTH-7.6X3.8 RESONATOR-PTH-7.6X3.8 Resonators (Generic)                                                                      

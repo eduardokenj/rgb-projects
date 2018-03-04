@@ -1,0 +1,22 @@
+Partlist exported from C:/Users/eduar/Documents/eagle/SCART SWITCH/SELETOR/seletor.sch at 06/01/2018 10:01
+
+Part Value     Device       Package Description                                                MF                      MPN  OC_FARNELL OC_NEWARK
+D1   1N4004    1N4004       DO41-10 DIODE                                                                                                       
+D2   1N4004    1N4004       DO41-10 DIODE                                                                                                       
+D3   1N4004    1N4004       DO41-10 DIODE                                                                                                       
+JP1  AUDIO_IN  JP2E         JP2     JUMPER                                                                                                      
+JP2  RGB_IN    JP4E         JP4     JUMPER                                                                                                      
+JP3  RGB_OUT   JP4E         JP4     JUMPER                                                                                                      
+JP4  AUDIO_OUT JP2E         JP2     JUMPER                                                                                                      
+JP5  COM       JP4E         JP4     JUMPER                                                                                                      
+K1   4052      4052         F4052   RELAY                                                                                   unknown    unknown  
+K2   4052      4052         F4052   RELAY                                                                                   unknown    unknown  
+K3   4052      4052         F4052   RELAY                                                                                   unknown    unknown  
+LED1 RED       LED5MM       LED5MM  LED                                                                                                         
+OK1  4N37      4N37         DIL06   OPTO COUPLER                                               FAIRCHILD SEMICONDUCTOR 4N37 1612456    72K9948  
+R1   330R      R-US_0204/7  0204/7  RESISTOR, American symbol                                                                                   
+R2   330R      R-US_0204/2V 0204V   RESISTOR, American symbol                                                                                   
+R3   330R      R-US_0204/2V 0204V   RESISTOR, American symbol                                                                                   
+R4   10K       R-US_0204/2V 0204V   RESISTOR, American symbol                                                                                   
+T1   TIP31     TIP31        TO220   NPN Transistor  Medium Power Linear Switching Applications                                                  
+X1   SCART-F   SCART-F      SCART-F TV SCART CONNECTOR                                                                      unknown    unknown  

@@ -10,3 +10,4 @@ E boa parte dos compoenentes são encontrados já nacionalizados.
 Os projetos nesse repositorio git são open hardware e feitos para a comunidade.
 
 Caso queira doar via paypal só mandar o pagameto para eduardokenj@gmail.com
+Ou via PicPay picpay.me/eduardo.asakura
